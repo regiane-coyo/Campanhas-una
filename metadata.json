@@ -1,6 +1,0 @@
-{
-  "name": "Campanhas Parque Una",
-  "description": "Painel de análise, projeção e simulação de campanhas de marketing digital do Parque Una 2026.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
